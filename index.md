@@ -10,4 +10,9 @@
 
 This file demonstrates header's in markdown. Thrilling stuff.
 
+``` Python
+print("Hello, World!")
+```
+
 ![image of a open sign](https://pd.w.org/2024/10/298671c58c97b5a79.20639447-2048x1536.jpeg)
+
